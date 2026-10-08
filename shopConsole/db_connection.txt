@@ -1,0 +1,1 @@
+Server=localhost;Database=TradingCompanyDB;User Id=sa;Password=ka21;TrustServerCertificate=True;
