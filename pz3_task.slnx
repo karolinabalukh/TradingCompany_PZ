@@ -1,6 +1,14 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="diagram.jpg" />
+  </Folder>
+  <Project Path="shopBL/shopBL.csproj" Id="40b79c30-e488-4127-b475-091ba5541bf2" />
+  <Project Path="shopBL_Tests/shopBL_Tests.csproj" Id="1dcc2d8d-6751-44af-9cdb-307f1ce9d65d" />
   <Project Path="shopConsole/shopConsole.csproj" Id="75fe5f02-61e1-4ede-a0b6-5da0fd04b0f0" />
   <Project Path="shopDAL/shopDAL_EF.csproj" Id="da85e831-a069-4583-8fb6-523cc3862ee7" />
   <Project Path="shopDTO/shopDTO.csproj" Id="a227d8a2-049f-4de6-a503-f180b376d3da" />
   <Project Path="shopTests/shopTests.csproj" Id="d1e3ab43-fd2a-451c-8b30-9406f71dd488" />
+  <Project Path="shopViewModels/shopViewModels.csproj" Id="a0ccbed8-3fd8-4ec6-a849-55410c1263ce" />
+  <Project Path="shopWPF/shopWPF.csproj" Id="d7785180-0a36-4ed9-b37b-d1b569322971" />
 </Solution>
